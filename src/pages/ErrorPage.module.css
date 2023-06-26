@@ -1,0 +1,12 @@
+
+.error img{
+	border-radius: 8px;
+}
+
+.error div{
+	margin-bottom: 1rem;
+}
+
+.error a {
+	color: orange;
+}
