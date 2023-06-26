@@ -11,6 +11,7 @@ Es importante tener en cuenta que el sistema de autenticación utilizado en este
 
 # Api: 🌐
 https://rapidapi.com/digiwalls/api/free-to-play-games-database
+- Cambiar apiToken en src/services/getGames.js.
 
 # Lista general de características que desarrolle: 📝
 
