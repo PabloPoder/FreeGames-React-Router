@@ -1,6 +1,8 @@
 # FREE GAMES - react-router ⚛️
 Este es un proyecto muy simple que realicé como ejercicio práctico para conocer y poner en práctica las funcionalidades y componentes más comunes que ofrece el framework React Router, como Loaders, Actions, Link, etc.
 
+![image](https://github.com/PabloPoder/FreeGames-React-Router/assets/50326883/0acf5865-6666-4c6f-a14d-50350eb3a1cf)
+
 # Visitar página: 👀
 [Free Games: React Router](https://freegames-react-router.surge.sh)
 
